@@ -1,0 +1,3 @@
+C:/Users/admin/Desktop/useful/education/algorythms/KDZ_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/admin/Desktop/useful/education/algorythms/KDZ_2/cmake-build-debug/CMakeFiles/KDZ_2.dir
+C:/Users/admin/Desktop/useful/education/algorythms/KDZ_2/cmake-build-debug/CMakeFiles/edit_cache.dir
